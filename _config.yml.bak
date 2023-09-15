@@ -11,7 +11,7 @@ description: >
 
 theme: minima
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 plugins:
   - jekyll-feed
