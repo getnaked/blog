@@ -9,4 +9,4 @@ tags:
 
 Шезлонг для гномов на маршруте № 60. Остаётся загадкой, пробовал ли сесть на это место установщик.
 
-![](images/sidenje-v-avtobuse-lg.jpg)
+![](/blog/assets/img/sidenje-v-avtobuse-lg.jpg)

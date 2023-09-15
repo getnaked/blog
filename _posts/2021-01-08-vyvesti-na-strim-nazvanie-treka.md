@@ -13,23 +13,23 @@ tags:
 
 В выпадающем списке Select Player выбираем плеер или нужный сервис. Например, можно отображать песню из открытой в браузере вкладки YouTube (работает в Firefox и Chrome). После выбора нажимаем Start.
 
-![](images/Stream-Music-Displayer.png)
+![](/blog/assets/img/Stream-Music-Displayer.png)
 
 Запускайте нужную вам песню или видео, если всё сделано правильно в разархивированной папке появится файл с названием current\_song.txt
 
-![](images/Stream-Music-Displayer-File-1024x347.png)
+![](/blog/assets/img/Stream-Music-Displayer-File-1024x347.png)
 
 Теперь запустите OBS и в источниках добавьте Текст (GDI+). Если у вас OBS от СтримЛабса, то найдите похожий пункт.
 
-![](images/OBS-gdi-2-1024x622.png)
+![](/blog/assets/img/OBS-gdi-2-1024x622.png)
 
 В настройках выберите текстовый файл current\_song.txt, нужный цвет и размер шрифта.
 
-![](images/OBS-gdi-config-2-1024x622.png)
+![](/blog/assets/img/OBS-gdi-config-2-1024x622.png)
 
 Если вам не нравится формат надписи выводимого трека или хочется перевести слова, то можно в Stream Music Displayer перейти в меню Tools - Options и на вкладке Generals сделать по-своему:
 
-![](images/SMD-Options.png)
+![](/blog/assets/img/SMD-Options.png)
 
 Чтобы сбавить нагрузку на CPU поставьте Refresh Rate равным 5 секунд.
 

@@ -7,6 +7,6 @@ tags:
   - "nablyudeniya"
 ---
 
-![](images/cvetovaja-differenciacija-podezdov-lg.jpg)
+![](/blog/assets/img/cvetovaja-differenciacija-podezdov-lg.jpg)
 
 Козырьки над подъездами раскрашены в разные цвета. Удобно для тех, кто не знает о нумерации слева направо и в случаях хитрых планировок зданий, где правильно посчитать сложно.

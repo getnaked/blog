@@ -10,20 +10,20 @@ tags:
 
 Буква «б» в адресах у 2ГИС ставится заглавной, чтобы нельзя было перепутать с цифрой 6:
 
-![](images/zaglavnaya-b-lg.png)
+![](/blog/assets/img/zaglavnaya-b-lg.png)
 
 На выезде из города указано расстояние до ближайших крупных населенных пунктов:
 
-![](images/2gis-rasstojanie-do-sesednih-krupnyh-naselennyh-punktov-lg.png)
+![](/blog/assets/img/2gis-rasstojanie-do-sesednih-krupnyh-naselennyh-punktov-lg.png)
 
 Жилые дома в частном секторе нарисованы квадратами вне зависимости от их реальной формы:
 
-![](images/odinakovie-domiki-lg.png)
+![](/blog/assets/img/odinakovie-domiki-lg.png)
 
 Микрорайоны нанесены на карту не как территории, а как улицы:
 
-![](images/mikrorayoni-kak-ulici-lg.png)
+![](/blog/assets/img/mikrorayoni-kak-ulici-lg.png)
 
 Слово «улица» в названиях дорог не указывается:
 
-![](images/bez-ulic-lg.png)
+![](/blog/assets/img/bez-ulic-lg.png)

@@ -11,16 +11,16 @@ tags:
 
 Сначала снимаем верхнюю крышку, она держится на магнитах. Просто поднимайте её заднюю часть:
 
-![](images/razbor-xiaomi-mi-mouse-2-shag-1-2-lg.jpg)
+![](/blog/assets/img/razbor-xiaomi-mi-mouse-2-shag-1-2-lg.jpg)
 
 В передней части есть два отверстия. Они залиты пластмассой, это такой способ чтобы было видно вскрывали мышь или нет. Берите крестовую отвертку, протыкайте слой и откручивайте винты:
 
-![](images/razbor-xiaomi-mi-mouse-2-shag-2-lg.jpg)
+![](/blog/assets/img/razbor-xiaomi-mi-mouse-2-shag-2-lg.jpg)
 
 Теперь вытаскивайте батарейку и отдирайте наклейку — там последний винт:
 
-![](images/razbor-xiaomi-mi-mouse-2-shag-3-lg.jpg)
+![](/blog/assets/img/razbor-xiaomi-mi-mouse-2-shag-3-lg.jpg)
 
 Держитесь за отсек для батареек и аккуратно поднимайте внутреннюю крышку. Для доступа ко внутренностям больше нет препятствий:
 
-![](images/razbor-xiaomi-mi-mouse-2-shag-4-lg.jpg)
+![](/blog/assets/img/razbor-xiaomi-mi-mouse-2-shag-4-lg.jpg)

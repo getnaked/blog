@@ -9,7 +9,7 @@ categories:
 
 Активно пользуясь Тиндером вы хотя бы один раз видели такие профили:
 
-![](images/tinder.jpg)
+![](/blog/assets/img/tinder.jpg)
 
 Фейковые профили
 

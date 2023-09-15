@@ -7,6 +7,6 @@ tags:
   - "nablyudeniya"
 ---
 
-![](images/zhiloj-dom-v-novosibirske-lg.jpg)
+![](/blog/assets/img/zhiloj-dom-v-novosibirske-lg.jpg)
 
 Архитектор забыл о жителях и установил фигурные перегородки. А жителям нужны застеклённые лоджии. Из-за этого по всему дому появились самодельные «заглушки».

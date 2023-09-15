@@ -11,7 +11,7 @@ tags:
 
 Упругости эспандера я не знал, а смотреть без него фильмы по вечерам стало скучно, поэтому начал искать себе аналог «на вырост» с регулируемой нагрузкой. Пару дней на чтение обзоров, просмотр отзывов на YouTube и мой выбор пал на Arm Hand Gripper. На AliExpress’е он без названия, но это копия CFF Pit Bull Super Vise Gripper, Hammar Vice Gripper и Ivanko Super Gripper.
 
-![](images/reguliruemyj-espander-lg.jpg)
+![](/blog/assets/img/reguliruemyj-espander-lg.jpg)
 
 Эспандер
 

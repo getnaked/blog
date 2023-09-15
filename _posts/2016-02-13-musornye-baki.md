@@ -7,6 +7,6 @@ tags:
   - "nablyudeniya"
 ---
 
-![](images/musornye-baki-lg.jpg)
+![](/blog/assets/img/musornye-baki-lg.jpg)
 
 Никто не хочет марать руки об грязный мусорный бак, поэтому вариант с открытием крышки ногой пользуется большей популярностью.
